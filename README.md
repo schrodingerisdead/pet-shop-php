@@ -17,8 +17,6 @@ A simple e-commerce web application for a pet shop built using **PHP** and **MyS
 - **Admin Panel**
   - Manage products (Add, Edit, Delete).
   - View and manage user orders.
-- **Payment Integration**
-  - PayPal sandbox integration for testing payments.
 - **Responsive Design**
   - Works on desktop and mobile devices.
 
