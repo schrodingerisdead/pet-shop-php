@@ -2,6 +2,10 @@
 
 A simple e-commerce web application for a pet shop built using **PHP** and **MySQL**, developed as part of the Web Applications course at **FEEIT**.
 
+
+https://github.com/user-attachments/assets/56c13f27-7019-4523-b6d6-aeca5c7431c2
+
+
 ---
 
 ## Features
